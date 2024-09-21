@@ -1,0 +1,34 @@
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\bin\Debug\TPFinalNivel2_Nequi.exe.config
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\bin\Debug\TPFinalNivel2_Nequi.exe
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\bin\Debug\TPFinalNivel2_Nequi.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\bin\Debug\Dominio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\bin\Debug\Negocio.dll
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\bin\Debug\Dominio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\bin\Debug\Negocio.pdb
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.frmMostrarDetalleArticulo.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.frmAltaArticulo.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.frmPrincipal.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.Properties.Resources.resources
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.exe
+C:\Users\PC-1\Desktop\Git Repository\Proyectos-Cursos\Proyectos-MaxiPrograma\C-Sharp-Nivel II\TPFinalNivel2_Nequi\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.pdb
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\bin\Debug\TPFinalNivel2_Nequi.exe.config
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\bin\Debug\TPFinalNivel2_Nequi.exe
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\bin\Debug\TPFinalNivel2_Nequi.pdb
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\bin\Debug\Dominio.dll
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\bin\Debug\Negocio.dll
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\bin\Debug\Dominio.pdb
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\bin\Debug\Negocio.pdb
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.frmMostrarDetalleArticulo.resources
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.frmAltaArticulo.resources
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.frmPrincipal.resources
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.Properties.Resources.resources
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.exe
+C:\Users\PC-1\Documents\GitHub\TPFinalNivel2_Nequi-MaxiPrograma\TPFinalNivel2_Nequi\obj\Debug\TPFinalNivel2_Nequi.pdb
